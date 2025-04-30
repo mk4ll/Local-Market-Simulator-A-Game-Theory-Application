@@ -7,3 +7,6 @@ After "Ορισμός Παραμέτρων" you can choose the number of rounds 
 You can also go back to the main menu
 
 That's all preatty much.
+
+
+ATTENTION: if you run the .py file, it must be in the same folder as the shops.png.
